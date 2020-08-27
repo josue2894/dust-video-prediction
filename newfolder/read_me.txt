@@ -1,0 +1,1 @@
+Update on dust video project. Corrected a few issues in training videos. Created new data set in the form of an object. Trained a new model with scaled data, factor of 80 and only using saturation band. 
